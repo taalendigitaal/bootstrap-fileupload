@@ -1,0 +1,16 @@
+{
+    "name": "taalendigitaal/bootstrap-fileupload",
+    "description": "Bootstrap Fileupload",
+    "type": "component",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "js/jquery.fileupload.js",
+                "js/vendor/jquery.ui.widget.js"
+            ]
+        }
+    }
+}
